@@ -5,3 +5,8 @@ I’m Scott Huhges, a software developer that is mad for solving meaningful prob
 For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
 To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/). 
 
+## Projects:
+# TIC-TAC-(ben)TOE
+'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript.
+[Play the game](https://scotthugs.github.io/tic-tac-toe/)
+[See the code](https://github.com/ScottHugs/tic-tac-toe)
