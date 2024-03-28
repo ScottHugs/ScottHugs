@@ -5,6 +5,10 @@ I’m Scott Hughes, a software developer that is mad for solving meaningful prob
 For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
 To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/). 
 
+# Skills:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
 # Projects:
 ## Megs' Clock 
 
@@ -44,5 +48,5 @@ An app simulating a card market with a restful CRUD based server design structur
 </p>
 'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript.
 
-### Check it out: [TIC-TAC-(ben)TOE](https://scotthugs.github.io/tic-tac-toe/).
-### See the [code](https://github.com/ScottHugs/tic-tac-toe).
+### Check it out: [TIC-TAC-(ben)TOE](https://scotthugs.github.io/tic-tac-toe/)
+### See the [code](https://github.com/ScottHugs/tic-tac-toe)
