@@ -26,7 +26,7 @@ My top skills include:
 ## Megs' Clock 
 
 <p align="center">
-  <img width="500" src="https://github.com/ScottHugs/ScottHugs/blob/main/megsClock.png">
+  <img width="400" src="https://github.com/ScottHugs/ScottHugs/blob/main/megsClock.png">
 </p>
 A full-stack app utilising websockets for uses to create a joinable session which emits a synchronised countdown timer. Megs'-Clock is a React app which utilises the Socket.IO library. <br /> 
 <br /> 
@@ -40,7 +40,7 @@ See the [code](https://github.com/ScottHugs/megs-clock-server)  <br />
 ## Feulin-Good 
 
 <p align="center">
-  <img width="500" src="https://github.com/ScottHugs/ScottHugs/blob/main/feulinGood.png">
+  <img width="400" src="https://github.com/ScottHugs/ScottHugs/blob/main/feulinGood.png">
 </p>
 A group developed app with a focus on utilising the Google Maps API to display information about Australian petrol stations. Highlights of the development of Feulin-Good included the concept and practice of pair programming as well as Github based project managment.<br /> 
 <br /> 
@@ -51,7 +51,7 @@ See the [code](https://github.com/ScottHugs/project_3_feulin_good)
 ## Yugimart
 
 <p align="center">
-  <img width="500" src="https://github.com/ScottHugs/ScottHugs/blob/main/yugimart.png">
+  <img width="400" src="https://github.com/ScottHugs/ScottHugs/blob/main/yugimart.png">
 </p>
 An app simulating a card market with a restful CRUD based server design structure, connected to an sql database. Yugimart is a Node.js app built with SQL, HTML, CSS, and javascript, utilising Express and Postgresql.<br /> 
 <br /> 
@@ -63,7 +63,7 @@ See the [code](https://github.com/ScottHugs/yugimart)
 ## TIC-TAC-(ben)TOE
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png">
+  <img width="400" src="https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png">
 </p>
 'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript. <br /> 
 <br /> 
