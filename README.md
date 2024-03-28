@@ -7,7 +7,7 @@ To see abit more about my experience check [my linked in](https://www.linkedin.c
 
 ## Projects:
 # TIC-TAC-(ben)TOE
-![Screenshot](https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png)
+![Screenshot](https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png | width=200)
 'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript.
 
 [Play the game](https://scotthugs.github.io/tic-tac-toe/)
