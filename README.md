@@ -10,9 +10,9 @@ To see abit more about my experience check [my linked in](https://www.linkedin.c
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-My top skills include: 
 
-React:
+My top skills include: 
+- React
 - Node.js
 - Express.js
 - JavaScript
@@ -30,8 +30,9 @@ React:
 </p>
 A full-stack app utilising websockets for uses to create a joinable session which emits a synchronised countdown timer. Megs'-Clock is a React app which utilises the Socket.IO library.
 
-### Check it out: [Megs' Clock](https://megsclock-7dd8ec27fac8.herokuapp.com/)
-### See the [code](https://github.com/ScottHugs/megs-clock-server)
+Check it out: [Megs' Clock](https://megsclock-7dd8ec27fac8.herokuapp.com/)
+
+See the [code](https://github.com/ScottHugs/megs-clock-server)
 
 
 ## Feulin-Good 
@@ -50,8 +51,9 @@ A group developed app with a focus on utilising the Google Maps API to display i
   <img width="500" src="https://github.com/ScottHugs/ScottHugs/blob/main/yugimart.png">
 </p>
 An app simulating a card market with a restful CRUD based server design structure, connected to an sql database. Yugimart is a Node.js app built with SQL, HTML, CSS, and javascript, utilising Express and Postgresql.
-### Check it out: [Yugimart](https://yugimart.onrender.com/)
-### See the [code](https://github.com/ScottHugs/yugimart)
+
+Check it out: [Yugimart](https://yugimart.onrender.com/)
+See the [code](https://github.com/ScottHugs/yugimart)
 
 
 ## TIC-TAC-(ben)TOE
