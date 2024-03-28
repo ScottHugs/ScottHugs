@@ -12,5 +12,6 @@ To see abit more about my experience check [my linked in](https://www.linkedin.c
   <img width="500" src="https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png">
 </p>
 'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript.
+
 ###Check it out: [TIC-TAC-(ben)TOE](https://scotthugs.github.io/tic-tac-toe/).
 ###See the code: [here](https://github.com/ScottHugs/tic-tac-toe).
