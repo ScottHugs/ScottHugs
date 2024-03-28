@@ -9,7 +9,7 @@ To see abit more about my experience check [my linked in](https://www.linkedin.c
 # TIC-TAC-(ben)TOE
 
 <p align="center">
-  <img width="360" src="https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png/360">
+  <img width="360" src="https://raw.githubusercontent.com/ScottHugs/ScottHugs/main/ticTacBenToe.png">
 </p>
 'TIC-TAC-(ben)TOE' - a pixelated / retro / sushi-themed, 'naughts and crosses' simulator. This was a front-end app built with HTML, CSS and JavaScript.
 
