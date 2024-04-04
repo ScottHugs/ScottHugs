@@ -8,11 +8,11 @@ Other things I love apart from coding:
 - Lord of the Rings
 - surfing
 - when you get a thigh piece in your KFC box
-- yugioh
 - Jesus
+- Yugioh
 
 Things I'm currently learning/coding :
-- Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/))
+- Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/)... UX incoming!)
 - Writing tests with Playwright (looks like there are some bugs in my projects...) 
 
 For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
