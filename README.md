@@ -1,6 +1,19 @@
 # Hi there,
 
-I’m Scott Hughes, a software developer that is mad for solving meaningful problems that really matter to people. These passions for people and problem solving have looked like two ends of a spectrum with my previous experience being in electrical engineering and chaplaincy. Now, in the software space, I thrive off bringing those ends together by utilising my ever growing front-end and back-end toolkit to create solutions that influence the lives of others for the better. While I love getting in the zone, headphones on, churning out lines of code to ‘The 1975’, where I really come to life is within a hungry team, keen on chasing down big goals.
+I’m Scott Hughes, a software developer that is mad for solving meaningful problems that really matter to people.
+I love getting in the zone, headphones on, churning out lines of code to ‘The 1975’, but where I really come to life is within a hungry team, keen on chasing down big goals.
+
+Other things I love apart from coding:
+- my family
+- Lord of the Rings
+- surfing
+- when you get a thigh piece in your KFC box
+- yugioh
+- Jesus
+
+Things I'm currently learning/coding :
+- Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/))
+- Writing tests with Playwright (looks like there are some bugs in my projects...) 
 
 For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
 To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/). 
