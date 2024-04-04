@@ -16,7 +16,7 @@ Things I'm currently learning/coding :
 - Writing tests with Playwright (looks like there are some bugs in my projects...) 
 
 For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
-To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/), or check out my [resume](https://github.com/ScottHugs/ScottHugs/blob/main/scottHughes2PageCV.pdf). 
+To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/), or check out my [resume](https://github.com/ScottHugs/ScottHugs/blob/main/ScottHughesCV.pdf). 
 
 # Skills:
 <h3 align="left">Languages and Tools:</h3>
