@@ -33,6 +33,13 @@ My top skills include:
 - CSS
 - Swift
 
+Other skills:
+- Communication and people
+- Problem solving
+- Project Management
+- Teamwork and collaboration
+- Wellbeing support
+
                     
 
 # Projects:
