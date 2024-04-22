@@ -13,9 +13,9 @@ Other things I love apart from coding:
 
 Things I'm currently learning/coding :
 - Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/)... UX incoming!)
-- Writing tests with Playwright (looks like there are some bugs in my projects...) 
+- Writing tests with Playwright 
 
-For a bit more about my story check [this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
+For a bit more about [my story check this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
 To see abit more about my experience check [my linked in](https://www.linkedin.com/in/scott-hughes-30aa312aa/details/experience/), or check out my [resume](https://github.com/ScottHugs/ScottHugs/blob/main/ScottHughesCV.pdf). 
 
 # Skills:
