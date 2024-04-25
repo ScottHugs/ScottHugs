@@ -13,6 +13,7 @@ Other things I love apart from coding:
 
 Things I'm currently learning/coding :
 - Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/)... UX incoming!)
+- Learning about AI and LLM's, implimenting an AI based player in my TIC-TAC-(ben)TOE project.
 - Writing tests with Playwright 
 
 For a bit more about [my story check this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
