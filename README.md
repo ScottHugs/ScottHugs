@@ -12,8 +12,8 @@ Other things I love apart from coding:
 - Yugioh
 
 Things I'm currently learning/coding :
+- Firebase in my personal React / Express JS / Firebase marketplace project.
 - Material UI by creating a personal portfolio (see where I'm up to [here](https://scotthughes.netlify.app/)... UX incoming!)
-- Learning about AI and LLM's, implimenting an AI based player in my TIC-TAC-(ben)TOE project.
 - Writing tests with Playwright 
 
 For a bit more about [my story check this](https://www.youtube.com/watch?v=HrgOUjGS2aQ) out.  
@@ -52,7 +52,7 @@ Other skills:
 A full-stack app utilising websockets for uses to create a joinable session which emits a synchronised countdown timer. Megs'-Clock is a React app which utilises the Socket.IO library. <br /> 
 <br /> 
 
-Check it out: [Megs' Clock](https://megsclock-7dd8ec27fac8.herokuapp.com/)  <br /> 
+Not currently deployed.  <br /> 
 See the [code](https://github.com/ScottHugs/megs-clock-server)  <br /> 
 
 
@@ -66,6 +66,7 @@ See the [code](https://github.com/ScottHugs/megs-clock-server)  <br />
 A group developed app with a focus on utilising the Google Maps API to display information about Australian petrol stations. Highlights of the development of Feulin-Good included the concept and practice of pair programming as well as Github based project managment.<br /> 
 <br /> 
 
+Not currently deployed.
 See the [code](https://github.com/ScottHugs/project_3_feulin_good)
 
 
