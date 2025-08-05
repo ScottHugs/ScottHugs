@@ -1,6 +1,6 @@
 # Hi there,
 
-I’m Scott Hughes, a software developer that is mad for solving meaningful problems that really matter to people.
+I’m Scott Hughes, a software developer and I love solving meaningful problems that really impact people for the better.
 I love getting in the zone, headphones on, churning out lines of code to ‘The 1975’, but where I really come to life is within a hungry team, keen on chasing down big goals.
 
 Other things I love apart from coding:
