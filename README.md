@@ -32,10 +32,11 @@ My top skills include:
 - JavaScript
 - HTML
 - CSS
+- Wordpress
 - Swift
 
 Other skills:
-- Communication and people
+- Communication
 - Problem solving
 - Project Management
 - Teamwork and collaboration
@@ -44,6 +45,10 @@ Other skills:
                     
 
 # Projects:
+
+## Binder
+Ask me about it 👍👍
+
 ## Megs' Clock 
 
 <p align="center">
